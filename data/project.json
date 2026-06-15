@@ -1,21 +1,27 @@
 {
-  "users": [],
   "publish": {
-    "publishPagesApp": false,
-    "publishSHA": "",
-    "publishISODate": ""
+    "publish_pages_app": true,
+    "publish_sha": "",
+    "publish_iso_date": ""
   },
+  "users": [],
   "project": {
-    "title": "Zora Neale Hurston’s Works Progress Administration Recordings",
-    "description": "",
-    "language": "",
-    "slug": "",
-    "authors": "",
-    "mediaPlayer": "universal",
-    "autoPopulateHomePage": "true",
-    "additionalUsers": [],
-    "": {},
-    "createdAt": "",
-    "updatedAt": ""
+    "github_org": "kmpartlow",
+    "is_private": false,
+    "title": "2026SuperBowlHalftimeAnalysis",
+    "description": "This will be filled in later.",
+    "language": "en",
+    "slug": "2026SuperBowl",
+    "creator": "kmpartlow",
+    "authors": "Katrina Partlow",
+    "media_player": "avannotate",
+    "auto_populate_home_page": true,
+    "additional_users": [],
+    "tags": {
+      "tagGroups": [],
+      "tags": []
+    },
+    "created_at": "2026-06-15T19:18:47.141Z",
+    "updated_at": "2026-06-15T19:18:47.141Z"
   }
 }
