@@ -1,0 +1,14 @@
+{
+  "content": [],
+  "created_at": "2026-06-15T19:40:13.668Z",
+  "created_by": "kmpartlow",
+  "title": "Super Bowl LIX Halftime Show",
+  "slug": "super-bowl-lix-halftime-show",
+  "updated_at": "2026-06-15T19:40:13.668Z",
+  "updated_by": "kmpartlow",
+  "autogenerate": {
+    "enabled": true,
+    "type": "event",
+    "type_id": "ae55d661-2a35-438e-89dc-c490440ce99c"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "audiovisual_files": {
+    "bd3fc9de-fde5-4002-bf60-98da4276ae55": {
+      "label": "Super Bowl LIX Halftime Show",
+      "is_offline": false,
+      "file_type": "Video",
+      "file_url": "https://youtu.be/KDorKy-13ak?si=vf-ss7Fn1cuoumDv",
+      "duration": 800
+    }
+  },
+  "auto_generate_web_page": true,
+  "citation": "Super Bowl LX Halftime Show, Kendrick Lamar, Apple Music, February 9, 2025, https://youtu.be/KDorKy-13ak?si=vf-ss7Fn1cuoumDv",
+  "label": "Super Bowl LIX Halftime Show",
+  "created_at": "2026-06-15T19:40:13.479Z",
+  "created_by": "kmpartlow",
+  "updated_at": "2026-06-15T19:40:13.479Z",
+  "updated_by": "kmpartlow"
+}
