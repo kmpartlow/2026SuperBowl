@@ -4,7 +4,13 @@
     "publish_sha": "",
     "publish_iso_date": ""
   },
-  "users": [],
+  "users": [
+    {
+      "login_name": "kmpartlow",
+      "avatar_url": "https://avatars.githubusercontent.com/u/183032277?v=4",
+      "admin": true
+    }
+  ],
   "project": {
     "github_org": "kmpartlow",
     "is_private": false,
@@ -22,6 +28,27 @@
       "tags": []
     },
     "created_at": "2026-06-15T19:18:47.141Z",
-    "updated_at": "2026-06-15T19:18:47.141Z"
-  }
+    "updated_at": "2026-06-15T19:18:47.141Z",
+    "generate_pages_site": true
+  },
+  "annotations": {},
+  "events": {},
+  "eventOrder": [],
+  "pages": {
+    "25b17d6a-1d54-4867-b7c1-15212fa67f83": {
+      "content": [],
+      "created_at": "2026-06-15T19:18:47.179Z",
+      "created_by": "kmpartlow",
+      "title": "2026SuperBowlHalftimeAnalysis",
+      "updated_at": "2026-06-15T19:18:47.179Z",
+      "updated_by": "kmpartlow",
+      "autogenerate": {
+        "enabled": true,
+        "type": "home"
+      }
+    }
+  },
+  "pageOrder": [
+    "25b17d6a-1d54-4867-b7c1-15212fa67f83"
+  ]
 }
