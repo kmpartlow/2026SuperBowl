@@ -1,5 +1,166 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 15,
+      "end_time": 20,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Controller design of the stage alludes to \"__\"; buttons flashing represent a possible cheat code reference"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "84efe5e4-a579-4544-a36c-cc5a574f635f"
+    },
+    {
+      "start_time": 22,
+      "end_time": 30,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Uncle Sam introducing the \"Great American Game\""
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "96dbb61c-424b-4eef-933f-5aeb17af5d07"
+    },
+    {
+      "start_time": 66,
+      "end_time": 69,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"Started on government cheese, now I can seize the government too\""
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "da8cb478-4b28-4e7d-80f9-b2b2c410a36f"
+    },
+    {
+      "start_time": 81,
+      "end_time": 87,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"the revolution's 'bout to be televised\"; reference to the song \"The Revolution will not be televised\" by Gil Scot-Heron"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "bcaeb527-1d9a-497f-adb2-2f7b40a292d9"
+    },
+    {
+      "start_time": 167,
+      "end_time": 175,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Common critique against Black Americans, \"too loud, too reckless, too ghetto\""
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "f60b26c9-0256-42a1-944f-e5a76860f836"
+    },
+    {
+      "start_time": 176,
+      "end_time": 183,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"Do you really know how to play the game? Then tighten. Up.\""
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "a3692ffa-a956-4fe9-9636-79fd738c3758"
+    },
+    {
+      "start_time": 184,
+      "end_time": 230,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "American flag imagery; K.Dot walking down the middle as if symbolizing revolution-deconstruction. Flag was built by the \"back of the dancers\" symbolizing the slavery backbone of the country"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "afc7fe27-deec-4a31-af12-326d4f848198"
+    },
+    {
+      "start_time": 231,
+      "end_time": 249,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"Be Humble\" with the dancers marching down the steps each time it is mentioned."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "6daaca27-690d-4e78-bd2b-6d543c987fc2"
+    },
+    {
+      "start_time": 260,
+      "end_time": 273,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "***comment on the set design?***"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "52e74db0-29bc-4f2e-b4f8-fdd517433be3"
+    },
+    {
+      "start_time": 276,
+      "end_time": 282,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "***comment on lyrics?***"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "e84fe21a-7de2-4d87-ac0b-40d2d2b6c802"
+    }
+  ],
   "set": "Default",
   "event_id": "ae55d661-2a35-438e-89dc-c490440ce99c",
   "source_id": "bd3fc9de-fde5-4002-bf60-98da4276ae55"
