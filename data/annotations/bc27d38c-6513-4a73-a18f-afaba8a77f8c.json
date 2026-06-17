@@ -1,22 +1,6 @@
 {
   "annotations": [
     {
-      "start_time": 15,
-      "end_time": 20,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "Controller design of the stage alludes to \"__\"; buttons flashing represent a possible cheat code reference"
-            }
-          ]
-        }
-      ],
-      "tags": [],
-      "uuid": "84efe5e4-a579-4544-a36c-cc5a574f635f"
-    },
-    {
       "start_time": 22,
       "end_time": 30,
       "annotation": [
