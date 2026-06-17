@@ -127,6 +127,591 @@
       ],
       "tags": [],
       "uuid": "e84fe21a-7de2-4d87-ac0b-40d2d2b6c802"
+    },
+    {
+      "start_time": 15,
+      "end_time": 20,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Controller design of the stage alludes to \"__\"; buttons flashing represent a possible cheat code reference"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Visual"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Set Design"
+        }
+      ],
+      "uuid": "e3d79797-e6bf-4e5a-8c6c-753f0c062b23"
+    },
+    {
+      "start_time": 22,
+      "end_time": 30,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Salutations, it's your uncle, Sam\nAnd this is the great American game [Uncle Sam]\nParallel between the Super Bowl game and the game of politics"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Vocal"
+        }
+      ],
+      "uuid": "d9e9bcad-cc37-4395-bb88-d5ba3354c0b2"
+    },
+    {
+      "start_time": 53,
+      "end_time": 56,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Red, White, then Blue dressed dancers exit the car."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Visual"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Clothing"
+        }
+      ],
+      "uuid": "13c282a6-f6ad-4c69-a8ed-838c63c879a0"
+    },
+    {
+      "start_time": 66,
+      "end_time": 69,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"Started on government cheese, now I can seize the government too\"\nReference to food stamps and government assistance, call to action for Black America to stand up to the government"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Vocal"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Indirect"
+        }
+      ],
+      "uuid": "ebe5f62b-d6db-41dd-8a07-09df126d2b6a"
+    },
+    {
+      "start_time": 81,
+      "end_time": 87,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"The revolution 'bout to be televised\nYou picked the right time, but the wrong guy\" \nReference to the song \"The Revolution will not be televised\" by Gil Scot-Heron "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Vocal"
+        }
+      ],
+      "uuid": "29f64e80-c2a0-415e-9ccd-a7b4d329ecc9"
+    },
+    {
+      "start_time": 167,
+      "end_time": 175,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"Too loud, too reckless, too ghetto\"\nConditioning within white supremacy in America that Black people should be docile, quiet and grateful for what they get, not loud and aggressive as the common stereotype of Black culture"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Vocal"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Stereotype"
+        }
+      ],
+      "uuid": "27e344d6-ff63-4fb3-b141-2518e449e2c6"
+    },
+    {
+      "start_time": 176,
+      "end_time": 183,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"Mr. Lamar, do you really know how to play the game? Then tighten up.\"\n\"Tightening up\" is a concept pushed onto Black communities--here telling the rapper to change the performance to fit the white agenda and level of comfort"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Vocal"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Cultural"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Critique"
+        }
+      ],
+      "uuid": "585089d9-b66e-4179-9892-abe8e7132e61"
+    },
+    {
+      "start_time": 184,
+      "end_time": 230,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "American flag imagery; K.Dot walking down the middle as if symbolizing revolution-deconstruction. Flag was built by the \"back of the dancers\" symbolizing the slavery backbone of the country"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Visual"
+        }
+      ],
+      "uuid": "5a55a3ba-7139-4d84-993f-18e1d36af42f"
+    },
+    {
+      "start_time": 231,
+      "end_time": 249,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"Be Humble\" with the dancers marching down the steps each time it is mentioned. Lowering of the flag"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Visual"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Vocal"
+        }
+      ],
+      "uuid": "d3a00503-7854-4b85-98d2-c442bfe552f4"
+    },
+    {
+      "start_time": 260,
+      "end_time": 273,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "***comment on the set design?***"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "cf3959f7-190d-4362-9b45-9601d123b4bf"
+    },
+    {
+      "start_time": 276,
+      "end_time": 282,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "***comment on lyrics?***"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "4711fae1-0016-44e2-95c3-d2d6c990aa8f"
+    },
+    {
+      "start_time": 330,
+      "end_time": 359,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"Flip a coin, you want the danerous me or the famous me?\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Vocal"
+        }
+      ],
+      "uuid": "77308a9d-7984-4346-97f1-fba4b0fd4752"
+    },
+    {
+      "start_time": 360,
+      "end_time": 370,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"The old culture cheat code.\nScorekeeper, deduct one life.\"\nNod to the importance of tight-knit community, and the punishment of Black Americans and creation of a culture that purposefully puts Black communities in harms way"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Vocal"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Cultural"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Critique"
+        }
+      ],
+      "uuid": "fb0e8a56-6267-4ee9-a855-83f7567a7b2a"
+    },
+    {
+      "start_time": 440,
+      "end_time": 443,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"You don' lost yo' damn mind\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Vocal"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Critique"
+        }
+      ],
+      "uuid": "ab08cf6b-b344-4045-b40f-c0a16c2f495b"
+    },
+    {
+      "start_time": 527,
+      "end_time": 566,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"Tell me what you gon' do to me […] But you can't bring the truth to me […] I recognize your false confidence\nPromises all in your conversation\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Vocal"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Political"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Critique"
+        }
+      ],
+      "uuid": "060c274a-3ff2-4f55-a11e-f976ce36f2ec"
+    },
+    {
+      "start_time": 588,
+      "end_time": 600,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"That's what America wants! Nice and calm.\"\n"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Vocal"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Critique"
+        }
+      ],
+      "uuid": "3ce79bcb-9293-40af-a7ef-dc5311de02b3"
+    },
+    {
+      "start_time": 602,
+      "end_time": 604,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"It's a cultural divide\"\nReferencing both the public beef of K.Dot and Drake, as well as the political polarization of the U.S."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Vocal"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Political"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Cultural"
+        }
+      ],
+      "uuid": "19ab045b-2143-4ea7-9e55-a11b1c62aff3"
+    },
+    {
+      "start_time": 607,
+      "end_time": 610,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"Forty acres and a mule, this is bigger than the music\"\nReference to the unrealized promise by the U.S. gov. to give formerly enslaved African Americans control, ownership, and freedom of their land and resources"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Vocal"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Political"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Cultural"
+        }
+      ],
+      "uuid": "d472d543-3631-4eaf-ac79-cd268b64e4d4"
+    },
+    {
+      "start_time": 611,
+      "end_time": 615,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"They tried to rig the game but you can't fake influence\"\nPointing out the ongoing attempts to undermine and suppress the true poewr of Black culture and individuals, though its presence and power cannot be replicated or reproduced"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Vocal"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Cultural"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Political"
+        }
+      ],
+      "uuid": "07b88c5d-bdfc-49ad-9965-58679310233a"
+    },
+    {
+      "start_time": 688,
+      "end_time": 695,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Serena Williams shown crip walking, self-empowerment for herself and Compton"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Visual"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Cultural"
+        }
+      ],
+      "uuid": "93f9fd2c-eecc-44ef-a62c-3a547cbe0051"
+    },
+    {
+      "start_time": 706,
+      "end_time": 714,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Militant style marching"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "25e70f0b-9516-493b-a8de-3a68f8eccbb6"
+    },
+    {
+      "start_time": 719,
+      "end_time": 721,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"They actin' bad but somebody gotta do it\"\nChange needs to be created, K.Dot is not claiming to be a savior, but is claiming to create change with his influence"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Vocal"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Political"
+        }
+      ],
+      "uuid": "44572ad7-ea97-4c44-b54b-6785fcb9d538"
+    },
+    {
+      "start_time": 781,
+      "end_time": 790,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"Turn this TV off, turn this TV off\"\nInstructing viewers to stop being distracted by what the media and government are pushing out and stand together--about 1.3 million viewers dropped from the broadcast, demonstrating his reach and influence"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Vocal"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Direct"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Cultural"
+        }
+      ],
+      "uuid": "58caad1b-bf27-440b-bdc7-81c4570c4dc5"
+    },
+    {
+      "start_time": 791,
+      "end_time": 793,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"Game Over\" in the stadium audience lights, suggesting the loss of the American government as we know it."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Visual"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Set Design"
+        }
+      ],
+      "uuid": "c7928a7a-3473-4c21-bc86-88644eb8b7f3"
     }
   ],
   "set": "Default",
