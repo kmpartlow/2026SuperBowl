@@ -4,8 +4,8 @@
       "label": "Super Bowl LIX Halftime Show",
       "is_offline": false,
       "file_type": "Video",
-      "file_url": "https://youtu.be/KDorKy-13ak?si=vf-ss7Fn1cuoumDv",
-      "duration": 800
+      "file_url": "https://ia800601.us.archive.org/7/items/untitled-2_20251005/Untitled%202.mp4",
+      "duration": 804
     }
   },
   "auto_generate_web_page": true,
@@ -13,6 +13,9 @@
   "label": "Super Bowl LIX Halftime Show",
   "created_at": "2026-06-15T19:40:13.479Z",
   "created_by": "kmpartlow",
-  "updated_at": "2026-06-15T19:40:13.479Z",
-  "updated_by": "kmpartlow"
+  "updated_at": "2026-06-17T19:37:01.934Z",
+  "updated_by": "kmpartlow",
+  "av_file_order": [
+    "bd3fc9de-fde5-4002-bf60-98da4276ae55"
+  ]
 }
