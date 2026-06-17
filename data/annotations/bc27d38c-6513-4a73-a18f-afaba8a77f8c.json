@@ -1,22 +1,6 @@
 {
   "annotations": [
     {
-      "start_time": 22,
-      "end_time": 30,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "Uncle Sam introducing the \"Great American Game\""
-            }
-          ]
-        }
-      ],
-      "tags": [],
-      "uuid": "96dbb61c-424b-4eef-933f-5aeb17af5d07"
-    },
-    {
       "start_time": 66,
       "end_time": 69,
       "annotation": [
